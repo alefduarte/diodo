@@ -1,4 +1,5 @@
 Cálculo das tensões e correntes no Diodo, usando três retificadores: Meia Onda, Onda Completa e Ponte.
+Desenvolvido por [Marina Batista](https://github.com/marinabsz), [Vantuir Paulo](https://github.com/vantuirpaulo) e [Álef Duarte](https://github.com/alefduarte)
 Os cálculos usam da Primeira, Segunda ou Terceira aproximação do Diodo, assim como Cálculo com o Diodo real.
 Todos as aproximações geram os gráficos de onda do DIODO.
 
